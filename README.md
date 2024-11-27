@@ -1,5 +1,6 @@
 # Cafe-Coffee-Day-Project
 OBJECTIVE:
+
 1.Sales Performance Insights:
 Deliver a comprehensive analysis of total sales, orders, and product performance, highlighting trends across time, 
 locations, and product categories to optimize business strategies.
